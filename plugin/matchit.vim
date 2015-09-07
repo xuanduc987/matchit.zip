@@ -1,8 +1,8 @@
 "  matchit.vim: (global plugin) Extended "%" matching
-"  Last Change: Fri Jan 25 10:00 AM 2008 EST
 "  Maintainer:  Benji Fisher PhD   <benji@member.AMS.org>
 "  Version:     1.13.2, for Vim 6.3+
 "  URL:		http://www.vim.org/script.php?script_id=39
+"  URL:		https://github.com/benjifisher/matchit.zip
 
 " Documentation:
 "  The documentation is in a separate file, matchit.txt .
